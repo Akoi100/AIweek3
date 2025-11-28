@@ -341,7 +341,7 @@ This assignment demonstrates:
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**[D'vock Tyronne Akoi]**  
 AI Tools Assignment - Week 3
 
 ---
@@ -361,3 +361,4 @@ This project is created for educational purposes.
 ---
 
 **Built with ❤️ and AI tools | November 2025**
+
